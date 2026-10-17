@@ -16,9 +16,7 @@ CASE, subquery, JOIN
 
 ## Key findings
 - Total sales were about 2.26 million across 4,922 orders.
-- FINDING FROM Q4
-- FINDING FROM Q5
-- FINDING FROM Q7
+
 
 ## Files
 - `queries.sql`: all 10 queries with insights
